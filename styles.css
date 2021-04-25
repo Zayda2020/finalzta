@@ -93,7 +93,7 @@ footer {
   color: #fff;
 }
 
-p {
+p, dl {
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -148,4 +148,8 @@ top: 450px;
   background-color: powderblue
   color: rgb(71, 70, 70);
   text-align: center;
+}
+
+dt {
+  font-weight: bold;
 }
