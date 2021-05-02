@@ -5,21 +5,21 @@ let products = [
     {
         name: "Individual Counselling",
         imagePath: "./images/product-1.jpeg",
-        tag: "individualcounselling",
+        tag: "individual",
         price: 80,
         inCart: 0
     },
     {
         name: "Couples Counselling",
         imagePath: "./images/product-2.jpeg",
-        tag: "couplescounselling",
+        tag: "couples",
         price: 120,
         inCart: 0
     },
     {
         name: "Online Therapy",
         imagePath: "./images/product-3.jpeg",
-        tag: "onlinetherapy",
+        tag: "online",
         price: 60,
         inCart: 0
     },
