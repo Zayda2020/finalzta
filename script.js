@@ -1,6 +1,6 @@
-var carts = document.querySelectorAll('.add-cart');
+let carts = document.querySelectorAll('.add-cart');
 
-var products = [ 
+let products = [ 
     {
         name: "Individual",
         imagePath: "./images/product-1.jpeg",
