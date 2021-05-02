@@ -3,19 +3,19 @@ var carts = document.querySelectorAll('.add-cart');
 var products = [ 
     {
         name: "Individual",
-        tag: "individual",
+        tag: "product-1",
         price: 80,
         inCart: 0
     },
     {
         name: "Couple's",
-        tag: "couples",
+        tag: "product-2",
         price: 120,
         inCart: 0
     },
     {
         name: "Online",
-        tag: "online",
+        tag: "product-3",
         price: 60,
         inCart: 0
     },
