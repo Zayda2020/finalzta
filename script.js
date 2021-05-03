@@ -1,23 +1,20 @@
-var carts = document.querySelectorAll('.add-cart');
+let carts = document.querySelectorAll('.add-cart');
 
-var products = [ 
+let products = [ 
     {
         name: "Individual",
-        imagePath: "./images/product-1.jpg",
         tag: "product-1",
         price: 80,
         inCart: 0
     },
     {
         name: "Couples",
-        imagePath: "./images/product-2.jpg",
         tag: "product-2",
         price: 120,
         inCart: 0
     },
     {
         name: "Online",
-        imagePath: "./images/product-3.jpg",
         tag: "product-3",
         price: 60,
         inCart: 0
