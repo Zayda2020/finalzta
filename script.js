@@ -3,21 +3,21 @@ var carts = document.querySelectorAll('.add-cart');
 var products = [ 
     {
         name: "Individual",
-        imagePath: "./images/product-1.jpeg",
+        imagePath: "./images/product-1.jpg",
         tag: "individual",
         price: 80,
         inCart: 0
     },
     {
         name: "Couples",
-        imagePath: "./images/product-2.jpeg",
+        imagePath: "./images/product-2.jpg",
         tag: "couples",
         price: 120,
         inCart: 0
     },
     {
         name: "Online",
-        imagePath: "./images/product-3.jpeg",
+        imagePath: "./images/product-3.jpg",
         tag: "online",
         price: 60,
         inCart: 0
